@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishantth1
-- 👀 I’m interested in coding,Artificial intelligence and Machine learning. 
+- 👀 I’m interested in Coding,AIML and Robotics. 
 - 🌱 I’m currently learning Python,C++. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me nishantthakre9@gmail.com
