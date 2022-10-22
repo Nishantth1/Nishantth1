@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Thakre</h1>
-<h3 align="center">A passionate Competitive Programmer from India</h3>
+<h3 align="center">A passionate Learner and Competitive Programmer.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithm in C++ and Java**
 
