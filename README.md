@@ -28,3 +28,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishantth1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
